@@ -9,6 +9,7 @@
 </p>
 ## 👩‍💻 About Me
 
+
 🎓 M.Sc. Data Science Student at VIT
 
 💼 Aspiring Data Engineer
@@ -20,7 +21,7 @@
 🚀 Goal: Build scalable data pipelines and AI-powered applications
 
 📫 Email: hafizahazir2626@gmail.com
----
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -40,7 +41,6 @@
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
 
----
 
 ## 📊 GitHub Stats
 
@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HafizaHazir&theme=tokyonight"/>
 </p>
----
+
 
 ## 🏆 GitHub Trophies
 

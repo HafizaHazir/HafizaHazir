@@ -4,16 +4,28 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hafiza+Hazir;Aspiring+Data+Engineer;AI+%26+Data+Science+Enthusiast;Python+%7C+SQL+%7C+PySpark;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-# Hi 👋, I'm Hafiza Hazir
+## 👩‍💻 About Me
 
-### Aspiring Data Engineer | AI & Data Science Enthusiast
+🎓 M.Sc. Data Science Student at VIT
 
-- 🎓 Pursuing **M.Sc. Data Science**
-- 💻 Interested in **Data Engineering, AI & Machine Learning**
-- 🌱 Currently learning **PySpark, Databricks, AWS & Airflow**
-- 📫 Reach me: **hafizahazir2626@gmail.com**
+💼 Aspiring Data Engineer
 
+🌱 Currently learning PySpark, Databricks, Airflow & AWS
+
+📊 Interested in Data Engineering, Machine Learning and Cloud Technologies
+
+🚀 Goal: Build scalable data pipelines and AI-powered applications
+
+📫 Email: hafizahazir2626@gmail.com
 ---
+## 🌐 Connect with Me
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/HafizaHazir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hafiza-hazir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ### 🛠 Languages and Tools
 

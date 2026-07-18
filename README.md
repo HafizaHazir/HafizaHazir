@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hafiza+Hazir;Aspiring+Data+Engineer;AI+%26+Data+Science+Enthusiast;Python+%7C+SQL+%7C+PySpark;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 # Hi 👋, I'm Hafiza Hazir
 
 ### Aspiring Data Engineer | AI & Data Science Enthusiast
@@ -34,4 +37,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HafizaHazir&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HafizaHazir&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HafizaHazir&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
 </p>

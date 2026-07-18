@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="banner.png" width="100%" alt="Hafiza Hazir Banner"/>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hafiza+Hazir;Aspiring+Data+Engineer;AI+%26+Data+Science+Enthusiast;Python+%7C+SQL+%7C+PySpark;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 # Hi 👋, I'm Hafiza Hazir

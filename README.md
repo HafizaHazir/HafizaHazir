@@ -19,9 +19,6 @@
 📫 Email: hafizahazir2626@gmail.com
 ---
 ## 🌐 Connect with Me
-
-## 🌐 Connect with Me
-
 <p align="left">
 <a href="https://github.com/HafizaHazir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hafiza-hazir/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

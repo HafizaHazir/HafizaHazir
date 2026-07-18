@@ -1,13 +1,22 @@
-# Hi, I'm Hafiza Hazir 
+# Hi 👋, I'm Hafiza Hazir
 
-## About Me
+### Aspiring Data Engineer | AI & Data Science Enthusiast
 
-🎓 MSc Data Science Student
+- 🎓 Pursuing **M.Sc. Data Science**
+- 💻 Interested in **Data Engineering, AI & Machine Learning**
+- 🌱 Currently learning **PySpark, Databricks, AWS & Airflow**
+- 📫 Reach me: **hafizahazir2626@gmail.com**
 
-💻 Aspiring Data Engineer
+---
 
-🐍 Learning Python, SQL, PySpark & AWS
+### 🛠 Languages and Tools
 
-🌱 Currently building Data Engineering projects
-
-📫 Reach me on GitHub: https://github.com/HafizaHazir
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
